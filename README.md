@@ -41,9 +41,7 @@ O projeto foi desenvolvido em Python, utilizando a biblioteca Pygame Zero, que s
 
 ### 📥 1. Clone este repositório e navegue até a pasta do projeto
 Abra o terminal e execute o comando abaixo para clonar o repositório:
-```
-git clone https://github.com/rfmotaa/Avaliacao-Kodland
-```
+`git clone https://github.com/rfmotaa/Avaliacao-Kodland`
 
 ### 📂 2. Instale o Pygame Zero
 `pip install pgzero`
